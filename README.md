@@ -13,4 +13,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=A0522D&center=true&vCenter=true&size=30&lines=HII..+I+AM+RAJIV+RAMTEKE;WELCOME+TO+MY+PROFILE;FULL+STACK+DEVELOPER;AI+DEVELOPER" />
 </p> 
+
 ![Snake animation](https://github.com/rajiv-ramteke/rajiv-ramteke/blob/output/github-snake.svg)
