@@ -7,4 +7,8 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://github.com/rajiv-ramteke/rajiv-ramteke/blob/output/github-snake.svg)
+<h1 align="center">👨‍💻 RAJIV RAMTEKE</h1>
+
+<p align="center">
+  <img src="https://github.com/rajiv-ramteke/rajiv-ramteke/blob/output/ocean.gif" />
+</p>
