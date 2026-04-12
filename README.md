@@ -11,10 +11,6 @@
 * 🧠 Strong in Problem Solving & Debugging
 * 🌍 Based in Nagpur, Maharashtra
 
-## ⚡ Fun Fact
-
-😄 I love coding and building smart systems 🚀
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rajiv Ramteke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajiv_gr22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramtekerajiv22@gmail.com) 
 
