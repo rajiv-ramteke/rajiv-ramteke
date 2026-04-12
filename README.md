@@ -9,6 +9,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">👨‍💻 RAJIV RAMTEKE</h1>
 
-<p align="center">
-  <img src="https://github.com/rajiv-ramteke/rajiv-ramteke/blob/output/ocean.gif" />
-</p>
+![Snake animation](https://github.com/rajiv-ramteke/rajiv-ramteke/blob/output/github-snake.svg)
