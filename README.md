@@ -1,3 +1,95 @@
+# 💫 Hi 👋, I'm Rajiv Ramteke
+
+### 🚀 B.Tech Computer Engineering Student | Full Stack Developer | AI Enthusiast 🇮🇳
+
+<p align="left">
+  <a href="mailto:ramtekerajiv22@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/rajiv-ramteke-64450b3b8/">🔗 LinkedIn</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 3rd Year B.Tech Student (Computer Engineering)
+* 💡 Passionate about Software Development & AI Solutions
+* 🧠 Strong in Problem Solving & Debugging
+* 🌍 Based in Nagpur, Maharashtra
+
+---
+
+## 🔭 Current Project
+
+### 🤖 AI-Powered Interview Preparation Platform
+
+* Generate interview questions using AI
+* Provide feedback on answers
+* Improve confidence with real-time practice
+
+---
+
+## 🌱 Currently Learning
+
+* ⚡ MERN Stack
+* 🤖 Machine Learning
+* 🔗 Backend APIs & Integration
+
+---
+
+## 💼 Internship Experience
+
+* 💻 Web Development Intern – SDM Technology Pvt Ltd
+* 🐍 Python Full Stack Intern – EduSkills (AICTE)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### 🌐 Web
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
+## 🧠 Core Skills
+
+* Object-Oriented Programming
+* Data Structures
+* Theory of Computation
+* Problem Solving
+
+---
+
+## 🏆 Achievements
+
+* 🥇 1st Rank (Topper) in 2nd Year – 78.47%
+* 📜 NPTEL OOP (Elite)
+* 📜 NPTEL Theory of Computation
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:ramtekerajiv22@gmail.com">📧 Email Me</a><br>
+  <a href="https://www.linkedin.com/in/rajiv-ramteke-64450b3b8/">🔗 LinkedIn Profile</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+😄 I love coding and building smart systems 🚀
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rajiv Ramteke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajiv_gr22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramtekerajiv22@gmail.com) 
