@@ -7,12 +7,14 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">
-  👨‍💻 RAJIV RAMTEKE
-</h1>
+<h1 align="center">🔥 RAJIV RAMTEKE 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Enthusiast;Tech+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub;AI+Developer;Creative+Coder" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rajiv-ramteke/rajiv-ramteke/blob/output/ocean.gif" />
 </p>
 
 ![Snake animation](https://github.com/rajiv-ramteke/rajiv-ramteke/blob/output/github-snake.svg)
