@@ -11,13 +11,6 @@
 * 🧠 Strong in Problem Solving & Debugging
 * 🌍 Based in Nagpur, Maharashtra
 
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="mailto:ramtekerajiv22@gmail.com">📧 Email Me</a><br>
-  <a href="https://www.linkedin.com/in/rajiv-ramteke-64450b3b8/">🔗 LinkedIn Profile</a>
-</p>
-
 ## ⚡ Fun Fact
 
 😄 I love coding and building smart systems 🚀
