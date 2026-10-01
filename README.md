@@ -34,7 +34,7 @@
       <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-card.svg" width="370" alt="Rajiv G. Ramteke ID Card" />
     </td>
     <td valign="top" width="520">
-      <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-code-terminal.svg" width="520" alt="Rajiv G. Ramteke Live Coding Terminal" />
+      <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-code-ide.svg" width="520" alt="Rajiv G. Ramteke Live Coding IDE Terminal" />
     </td>
   </tr>
 </table>
