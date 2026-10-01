@@ -1,0 +1,284 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="sky-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#051329"/>
+      <stop offset="100%" stop-color="#02040a"/>
+    </linearGradient>
+
+    <linearGradient id="neon-cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f3ff"/>
+      <stop offset="100%" stop-color="#00ff9d"/>
+    </linearGradient>
+
+    <linearGradient id="jet-metal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="laser-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f3ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00f3ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glow-strong" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      /* CSS Keyframe Animations */
+      @keyframes jetFloat {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        25% { transform: translateY(-10px) rotate(-1.5deg); }
+        75% { transform: translateY(12px) rotate(1.8deg); }
+      }
+
+      @keyframes thrusterPulsate {
+        0%, 100% { transform: scaleX(1) scaleY(1); opacity: 0.95; }
+        50% { transform: scaleX(1.35) scaleY(0.85); opacity: 0.75; }
+      }
+
+      @keyframes enemyFly {
+        0% { transform: translate(780px, 120px); opacity: 0; }
+        15% { opacity: 1; }
+        50% { transform: translate(520px, 85px); }
+        80% { transform: translate(380px, 140px); opacity: 1; }
+        100% { transform: translate(320px, 140px) scale(1.4); opacity: 0; }
+      }
+
+      @keyframes laserShoot {
+        0% { transform: translateX(0); opacity: 0; }
+        20% { opacity: 1; }
+        60% { opacity: 1; }
+        100% { transform: translateX(450px); opacity: 0; }
+      }
+
+      @keyframes starScrollFast {
+        from { transform: translateX(0); }
+        to { transform: translateX(-400px); }
+      }
+
+      @keyframes radarSweep {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+
+      @keyframes targetLockPulse {
+        0%, 100% { transform: scale(1); stroke: #00f3ff; }
+        50% { transform: scale(1.15); stroke: #ef4444; }
+      }
+
+      @keyframes textBlink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.4; }
+      }
+
+      .jet-unit {
+        animation: jetFloat 4s ease-in-out infinite;
+      }
+      .thruster {
+        animation: thrusterPulsate 0.12s linear infinite;
+        transform-origin: 0 0;
+      }
+      .laser-bolt {
+        animation: laserShoot 1.4s ease-out infinite;
+      }
+      .stars-layer {
+        animation: starScrollFast 3s linear infinite;
+      }
+      .radar-arm {
+        transform-origin: 65px 65px;
+        animation: radarSweep 3.5s linear infinite;
+      }
+      .target-box {
+        animation: targetLockPulse 1.2s ease-in-out infinite;
+        transform-origin: 580px 105px;
+      }
+      .status-blink {
+        animation: textBlink 1s infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Cockpit Border & Glass Shell -->
+  <rect x="2" y="2" width="856" height="256" rx="14" fill="url(#sky-bg)" stroke="#00f3ff" stroke-width="1.8" filter="url(#glow-cyan)"/>
+
+  <!-- Interior Background Grid -->
+  <g stroke="rgba(0, 243, 255, 0.07)" stroke-width="1">
+    <line x1="0" y1="50" x2="860" y2="50"/>
+    <line x1="0" y1="100" x2="860" y2="100"/>
+    <line x1="0" y1="150" x2="860" y2="150"/>
+    <line x1="0" y1="200" x2="860" y2="200"/>
+    <line x1="180" y1="0" x2="180" y2="260"/>
+    <line x1="360" y1="0" x2="360" y2="260"/>
+    <line x1="540" y1="0" x2="540" y2="260"/>
+    <line x1="720" y1="0" x2="720" y2="260"/>
+  </g>
+
+  <!-- Stars & Speed Lines -->
+  <g class="stars-layer" fill="#ffffff" opacity="0.6">
+    <circle cx="200" cy="40" r="1.5"/>
+    <circle cx="350" cy="80" r="1"/>
+    <circle cx="500" cy="30" r="1.8" fill="#00f3ff"/>
+    <circle cx="680" cy="110" r="1.2"/>
+    <circle cx="820" cy="60" r="2" fill="#00ff9d"/>
+    <circle cx="280" cy="180" r="1"/>
+    <circle cx="440" cy="220" r="1.5"/>
+    <circle cx="620" cy="190" r="1"/>
+    <circle cx="790" cy="230" r="1.8"/>
+
+    <!-- Fast Speed Streaks -->
+    <line x1="250" y1="75" x2="300" y2="75" stroke="rgba(0,243,255,0.4)" stroke-width="1.5"/>
+    <line x1="490" y1="140" x2="560" y2="140" stroke="rgba(0,255,157,0.3)" stroke-width="1"/>
+    <line x1="680" y1="90" x2="740" y2="90" stroke="rgba(0,243,255,0.5)" stroke-width="1.5"/>
+    <line x1="390" y1="210" x2="460" y2="210" stroke="rgba(56,189,248,0.4)" stroke-width="1.2"/>
+
+    <!-- Looping clone for seamless scroll -->
+    <circle cx="600" cy="40" r="1.5"/>
+    <circle cx="750" cy="80" r="1"/>
+    <circle cx="900" cy="30" r="1.8" fill="#00f3ff"/>
+    <circle cx="1080" cy="110" r="1.2"/>
+    <line x1="650" y1="75" x2="700" y2="75" stroke="rgba(0,243,255,0.4)" stroke-width="1.5"/>
+  </g>
+
+  <!-- RADAR SCOPE (Top-Left HUD) -->
+  <g transform="translate(24, 22)">
+    <!-- Radar ring -->
+    <circle cx="45" cy="45" r="40" fill="rgba(2, 6, 23, 0.75)" stroke="#00f3ff" stroke-width="1.4" opacity="0.85"/>
+    <circle cx="45" cy="45" r="26" fill="none" stroke="#00f3ff" stroke-width="0.8" opacity="0.4" stroke-dasharray="3,3"/>
+    <circle cx="45" cy="45" r="12" fill="none" stroke="#00f3ff" stroke-width="0.8" opacity="0.4"/>
+    <line x1="5" y1="45" x2="85" y2="45" stroke="#00f3ff" stroke-width="0.8" opacity="0.4"/>
+    <line x1="45" y1="5" x2="45" y2="85" stroke="#00f3ff" stroke-width="0.8" opacity="0.4"/>
+
+    <!-- Radar Sweep Line -->
+    <g class="radar-arm" transform-origin="45 45">
+      <line x1="45" y1="45" x2="75" y2="20" stroke="#00ff9d" stroke-width="1.8" filter="url(#glow-cyan)"/>
+      <polygon points="45,45 75,20 82,35" fill="rgba(0, 255, 157, 0.15)"/>
+    </g>
+
+    <!-- Friendly blip (Center) & Enemy blip (Active) -->
+    <circle cx="45" cy="45" r="2.5" fill="#00f3ff"/>
+    <circle cx="68" cy="32" r="3" fill="#ef4444" filter="url(#glow-cyan)"/>
+
+    <text x="45" y="102" fill="#00f3ff" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">RADAR 360°</text>
+  </g>
+
+  <!-- TOP TELEMETRY STRIP -->
+  <g font-family="'Courier New', Courier, monospace" font-size="11" font-weight="bold" fill="#00f3ff" letter-spacing="1.5">
+    <text x="140" y="36">CALLSIGN: <tspan fill="#ffffff">RAJIV G. RAMTEKE</tspan></text>
+    <text x="400" y="36">ALT: <tspan fill="#00ff9d">28,400 FT</tspan></text>
+    <text x="560" y="36">SPD: <tspan fill="#00ff9d">MACH 2.8</tspan></text>
+    <text x="700" y="36" fill="#ef4444" class="status-blink">● AIR COMBAT</text>
+  </g>
+
+  <!-- WEAPONS HUD (Left Lower) -->
+  <g transform="translate(24, 150)" font-family="'Courier New', Courier, monospace" font-size="10">
+    <text x="0" y="14" fill="#64748b" font-weight="bold">WEAPONS SYSTEM</text>
+    <rect x="0" y="22" width="95" height="15" rx="3" fill="rgba(15, 23, 42, 0.8)" stroke="#00f3ff" stroke-width="0.8"/>
+    <rect x="2" y="24" width="75" height="11" rx="2" fill="url(#neon-cyan-grad)"/>
+    <text x="104" y="34" fill="#00ff9d" font-weight="bold">LASER 80%</text>
+
+    <text x="0" y="58" fill="#64748b" font-weight="bold">AIM-120D MISSILES</text>
+    <rect x="0" y="66" width="16" height="14" rx="2" fill="#00f3ff"/>
+    <rect x="22" y="66" width="16" height="14" rx="2" fill="#00f3ff"/>
+    <rect x="44" y="66" width="16" height="14" rx="2" fill="#00f3ff"/>
+    <rect x="66" y="66" width="16" height="14" rx="2" fill="rgba(0, 243, 255, 0.2)" stroke="#00f3ff"/>
+    <text x="92" y="77" fill="#00f3ff" font-weight="bold">[3/4 READY]</text>
+  </g>
+
+  <!-- TARGET LOCK-ON RETICLE & ENEMY -->
+  <g class="target-box">
+    <rect x="550" y="75" width="60" height="60" rx="4" fill="none" stroke="#ef4444" stroke-width="1.6" stroke-dasharray="14,16"/>
+    <!-- Corner brackets -->
+    <path d="M 545,85 L 545,70 L 560,70" fill="none" stroke="#00f3ff" stroke-width="2"/>
+    <path d="M 615,85 L 615,70 L 600,70" fill="none" stroke="#00f3ff" stroke-width="2"/>
+    <path d="M 545,125 L 545,140 L 560,140" fill="none" stroke="#00f3ff" stroke-width="2"/>
+    <path d="M 615,125 L 615,140 L 600,140" fill="none" stroke="#00f3ff" stroke-width="2"/>
+
+    <!-- Enemy Drone / Jet Silhouette -->
+    <g transform="translate(580, 105)">
+      <polygon points="12,0 -8,-14 -4,-4 -18,0 -4,4 -8,14" fill="#0f172a" stroke="#ef4444" stroke-width="1.8"/>
+      <circle cx="-2" cy="0" r="2.5" fill="#ef4444" filter="url(#glow-cyan)"/>
+    </g>
+
+    <text x="580" y="65" fill="#ef4444" font-family="'Courier New', monospace" font-size="9" font-weight="bold" text-anchor="middle" letter-spacing="1">LOCK [98%]</text>
+    <text x="580" y="154" fill="#00ff9d" font-family="'Courier New', monospace" font-size="9" font-weight="bold" text-anchor="middle">DIST: 1.4 KM</text>
+  </g>
+
+  <!-- PLAYER FIGHTER JET (Animated) -->
+  <g class="jet-unit" transform="translate(240, 125)">
+    <!-- Plasma Exhaust Thrusters -->
+    <g class="thruster" transform="translate(-46, 0)">
+      <!-- Outer Flame -->
+      <polygon points="0,-7 -44,0 0,7" fill="#00f3ff" filter="url(#glow-strong)"/>
+      <!-- Inner Core Flame -->
+      <polygon points="0,-4 -28,0 0,4" fill="#ffffff" filter="url(#glow-cyan)"/>
+      <polygon points="0,-2 -16,0 0,2" fill="#00ff9d"/>
+    </g>
+
+    <!-- Twin Wingtip Plasma Lights -->
+    <circle cx="-16" cy="-38" r="2" fill="#00ff9d" filter="url(#glow-cyan)"/>
+    <circle cx="-16" cy="38" r="2" fill="#ef4444" filter="url(#glow-cyan)"/>
+
+    <!-- Main Fighter Jet Body (Stealth Interceptor Design) -->
+    <!-- Left Main Wing -->
+    <polygon points="12,-6 -14,-38 -22,-38 -12,-6" fill="#1e293b" stroke="#00f3ff" stroke-width="1.4"/>
+    <!-- Right Main Wing -->
+    <polygon points="12,6 -14,38 -22,38 -12,6" fill="#1e293b" stroke="#00f3ff" stroke-width="1.4"/>
+
+    <!-- Main Fuselage -->
+    <polygon points="56,0 16,-12 -38,-10 -44,-2 -46,0 -44,2 -38,10 16,12" fill="url(#jet-metal)" stroke="#00f3ff" stroke-width="1.8" filter="url(#glow-cyan)"/>
+
+    <!-- Twin Tail Fins -->
+    <polygon points="-28,-8 -42,-22 -48,-20 -38,-6" fill="#0f172a" stroke="#00ff9d" stroke-width="1.2"/>
+    <polygon points="-28,8 -42,22 -48,20 -38,6" fill="#0f172a" stroke="#00ff9d" stroke-width="1.2"/>
+
+    <!-- Cockpit Canopy (Neon Glass) -->
+    <ellipse cx="14" cy="0" rx="16" ry="5.5" fill="#00ff9d" filter="url(#glow-cyan)"/>
+    <ellipse cx="16" cy="0" rx="10" ry="3" fill="#ffffff" opacity="0.85"/>
+
+    <!-- Wing Edge Highlights -->
+    <line x1="12" y1="-6" x2="-14" y2="-38" stroke="#00ff9d" stroke-width="1.6"/>
+    <line x1="12" y1="6" x2="-14" y2="38" stroke="#00ff9d" stroke-width="1.6"/>
+
+    <!-- Fired Laser Blasters (Animated) -->
+    <g class="laser-bolt">
+      <line x1="56" y1="-12" x2="110" y2="-12" stroke="url(#laser-glow)" stroke-width="3" filter="url(#glow-cyan)"/>
+      <line x1="56" y1="12" x2="110" y2="12" stroke="url(#laser-glow)" stroke-width="3" filter="url(#glow-cyan)"/>
+    </g>
+  </g>
+
+  <!-- RIGHT TELEMETRY & SCORE TICKER -->
+  <g transform="translate(680, 150)" font-family="'Courier New', Courier, monospace">
+    <text x="0" y="14" fill="#64748b" font-size="10" font-weight="bold">MISSION SCORE</text>
+    <text x="0" y="36" fill="#ffffff" font-size="20" font-weight="bold" filter="url(#glow-cyan)">148,920</text>
+    <text x="0" y="56" fill="#00ff9d" font-size="11" font-weight="bold">STREAK: 18x COMBO</text>
+
+    <!-- Target Kills -->
+    <text x="0" y="78" fill="#64748b" font-size="10" font-weight="bold">ENEMIES DOWN: <tspan fill="#00f3ff">42</tspan></text>
+  </g>
+
+  <!-- BOTTOM COCKPIT STATUS BAR -->
+  <g transform="translate(24, 236)" font-family="'Courier New', Courier, monospace" font-size="10" font-weight="bold">
+    <line x1="0" y1="-8" x2="812" y2="-8" stroke="rgba(0, 243, 255, 0.2)" stroke-width="1"/>
+    <text x="0" y="8" fill="#38bdf8">SYS: COMBAT HUD v4.2</text>
+    <text x="210" y="8" fill="#00ff9d">AUTOPILOT: COMBAT ENGAGED</text>
+    <text x="490" y="8" fill="#00f3ff">FIRE CONTROL: ACTIVE</text>
+    <text x="700" y="8" fill="#f59e0b">FLIGHT MODE: SUPERSONIC</text>
+  </g>
+</svg>

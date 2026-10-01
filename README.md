@@ -180,9 +180,31 @@ github       : "github.com/rajiv-ramteke"
 
 <br/>
 
+<!-- ================= 9. CYBER FLIGHT SIMULATOR & AIR COMBAT ================= -->
+
+### ✈️ Sky Vanguard :: Cyber Flight Combat Simulator
+
+<p align="center">
+  <a href="https://htmlpreview.github.io/?https://github.com/rajiv-ramteke/rajiv-ramteke/blob/main/airplane-game/index.html" target="_blank">
+    <img src="./airplane-game.svg" width="100%" alt="Sky Vanguard Combat Simulator HUD" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://htmlpreview.github.io/?https://github.com/rajiv-ramteke/rajiv-ramteke/blob/main/airplane-game/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY_LIVE_FLIGHT_COMBAT-LAUNCH_JET_%E2%9C%88%EF%B8%8F-00f3ff?style=for-the-badge&labelColor=020617&logo=target&logoColor=00f3ff" alt="Play Live Game" />
+  </a>
+  &nbsp;
+  <a href="./airplane-game/index.html">
+    <img src="https://img.shields.io/badge/FLIGHT_ENGINE-HTML5_CANVAS_%2B_AUDIO_SYNTH-00ff9d?style=for-the-badge&labelColor=020617&logo=html5&logoColor=00ff9d" alt="Flight Engine" />
+  </a>
+</p>
+
+<br/>
+
 ---
 
-<!-- ================= 9. FOOTER BANNER ================= -->
+<!-- ================= 10. FOOTER BANNER ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,25:0284c7,50:0a2540,75:050f24,100:020409&height=120&section=footer" />
 
 </div>
