@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- ================= 1. CINEMATIC HEADER ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Rajiv%20G.%20Ramteke&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=B.Tech%20CSE%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
@@ -145,7 +145,40 @@ github       : "github.com/rajiv-ramteke"
 
 ---
 
-<!-- ================= 8. FOOTER BANNER ================= -->
+<!-- ================= 8. VERIFIED GITHUB ACHIEVEMENTS ================= -->
+
+### 🏅 Verified GitHub Achievements
+
+<table align="center">
+  <tr>
+    <td align="center" width="180" style="padding:16px">
+      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-55c85ef4fda9.png" width="80" alt="Pair Extraordinaire" /><br/>
+      <b><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Pair<br/>Extraordinaire</a></b><br/>
+      <sub>Co-authored commits</sub>
+    </td>
+    <td align="center" width="180" style="padding:16px">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" /><br/>
+      <b><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Pull Shark</a></b><br/>
+      <sub>Merged pull requests</sub>
+    </td>
+    <td align="center" width="180" style="padding:16px">
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" /><br/>
+      <b><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-your-profile-readme">YOLO</a></b><br/>
+      <sub>Merged without review</sub>
+    </td>
+    <td align="center" width="180" style="padding:16px">
+      <img src="https://github.githubassets.com/assets/starstruck-default-b9df0f98c832.png" width="80" alt="Starstruck" /><br/>
+      <b><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Starstruck</a></b><br/>
+      <sub>Stargazer milestone</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ================= 9. FOOTER BANNER ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,25:0284c7,50:0a2540,75:050f24,100:020409&height=120&section=footer" />
 
 </div>
