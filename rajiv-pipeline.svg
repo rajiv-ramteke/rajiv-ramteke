@@ -210,7 +210,7 @@
   <!-- ================= BOTTOM RUNTIME TELEMETRY ================= -->
   <g transform="translate(45, 318)" class="txt-mono" font-size="10" font-weight="700">
     <text fill="#64748b">EMAIL: <tspan fill="#ffffff">RAMTEKERAJIV22@GMAIL.COM</tspan></text>
-    <text x="350" fill="#64748b">PHONE: <tspan fill="#00ff9d">+91-9881934206</tspan></text>
+    <text x="350" fill="#64748b">GITHUB: <tspan fill="#00ff9d">github.com/rajiv-ramteke</tspan></text>
     <text x="650" fill="#64748b">LINKEDIN: <tspan fill="#00f3ff">RAJIV RAMTEKE</tspan></text>
     <text x="920" fill="#64748b">GITHUB: <tspan fill="#00ff9d">@RAJIV-RAMTEKE</tspan></text>
   </g>
