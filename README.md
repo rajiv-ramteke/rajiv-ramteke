@@ -151,25 +151,20 @@ github       : "github.com/rajiv-ramteke"
 
 <table align="center">
   <tr>
-    <td align="center" width="180" style="padding:16px">
-      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-55c85ef4fda9.png" width="80" alt="Pair Extraordinaire" /><br/>
-      <b><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Pair<br/>Extraordinaire</a></b><br/>
+    <td align="center" width="200" style="padding:20px">
+      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-55c85ef4fda9.png" width="90" alt="Pair Extraordinaire" /><br/><br/>
+      <b>Pair Extraordinaire</b><br/>
       <sub>Co-authored commits</sub>
     </td>
-    <td align="center" width="180" style="padding:16px">
-      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" /><br/>
-      <b><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Pull Shark</a></b><br/>
+    <td align="center" width="200" style="padding:20px">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark" /><br/><br/>
+      <b>Pull Shark</b><br/>
       <sub>Merged pull requests</sub>
     </td>
-    <td align="center" width="180" style="padding:16px">
-      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" /><br/>
-      <b><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-your-profile-readme">YOLO</a></b><br/>
-      <sub>Merged without review</sub>
-    </td>
-    <td align="center" width="180" style="padding:16px">
-      <img src="https://github.githubassets.com/assets/starstruck-default-b9df0f98c832.png" width="80" alt="Starstruck" /><br/>
-      <b><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Starstruck</a></b><br/>
-      <sub>Stargazer milestone</sub>
+    <td align="center" width="200" style="padding:20px">
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aef8d09f.png" width="90" alt="Quickdraw" /><br/><br/>
+      <b>Quickdraw</b><br/>
+      <sub>Closed within 5 minutes</sub>
     </td>
   </tr>
 </table>
