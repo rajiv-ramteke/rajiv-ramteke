@@ -69,153 +69,51 @@ github       : "github.com/rajiv-ramteke"
 
 <br/>
 
-<!-- ================= 5. OPERATOR TERMINAL DIRECTIVE (FULL PROFILE) ================= -->
-<table align="center" width="100%">
-  <tr>
-    <td style="background-color: #020617; border: 1.5px solid #00f3ff; border-radius: 14px; padding: 22px; box-shadow: 0 0 30px rgba(0, 243, 255, 0.25), inset 0 0 25px rgba(2, 6, 23, 0.95);">
-      <!-- TERMINAL WINDOW HEADER -->
-      <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #1e293b; padding-bottom: 10px; margin-bottom: 16px;">
-        <p align="left" style="font-family: 'Fira Code', 'Courier New', monospace; color: #00f3ff; margin: 0; font-size: 14px; font-weight: bold;">
-          🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp; <span style="color: #00ff9d;">root@rajiv-ramteke:~$</span> <code>./exec_operator_manifest.sh --full-spec</code>
-        </p>
-      </div>
+<!-- ================= 5. OPERATOR DIRECTIVE (CODE MANIFEST) ================= -->
+### 💻 `Operator Directive :: Profile Manifest`
 
-      <!-- TERMINAL BODY CONTENT -->
-      <div style="font-family: 'Fira Code', 'Cascadia Code', 'Courier New', monospace; color: #f8fafc; font-size: 13.5px; line-height: 1.7;">
-        
-        <!-- OPERATOR BIO & OBJECTIVE CARD -->
-        <table width="100%" style="border-collapse: collapse; margin-top: 4px; margin-bottom: 14px;">
-          <tr>
-            <td style="background: rgba(15, 23, 42, 0.7); border-left: 4px solid #38bdf8; border-radius: 4px 8px 8px 4px; padding: 14px 18px;">
-              <p align="left" style="margin: 0;">
-                <span style="color: #38bdf8; font-weight: bold; font-size: 14px;">⚡ [OPERATOR_SUMMARY]</span>
-                <span style="color: #64748b; font-size: 12px;"> // TARGET: SDE & AI ROLES @ IMMVERSEAI</span><br/>
-                <span style="color: #cbd5e1; font-size: 13.5px;">
-                  Motivated <b>Computer Engineering Student</b> with hands-on expertise in <b>Python Full-Stack Development</b>, <b>Computer Vision</b>, and <b>AI-based Applications</b>. Driven by a passion for crafting high-impact software systems, optimizing algorithms, and solving real-world challenges through technology. Seeking to apply core technical skills and contribute to cutting-edge AI innovations.
-                </span>
-              </p>
-            </td>
-          </tr>
-        </table>
+```python
+# ════════════════════════════════════════════════════════════════
+# 👨‍💻 OPERATOR_MANIFEST.py :: RAJIV G. RAMTEKE
+# ════════════════════════════════════════════════════════════════
 
-        <!-- ACADEMIC TELEMETRY CARD GRID -->
-        <table width="100%" style="border-collapse: separate; border-spacing: 8px; margin-bottom: 14px;">
-          <tr>
-            <td width="60%" style="background: #090d16; border: 1px solid #1e293b; border-top: 2px solid #00ff9d; border-radius: 8px; padding: 12px 14px;" valign="top">
-              <p align="left" style="margin: 0;">
-                <span style="color: #00ff9d; font-weight: bold;">🎓 [ACADEMIC_TELEMETRY]</span><br/>
-                🏛️ <b>Institute:</b> SCET, Nagpur<br/>
-                📜 <b>Degree:</b> B.Tech Computer Engineering<br/>
-                📅 <b>Timeline:</b> 2023 – 2027 (3rd Year Undergrad)<br/>
-                📍 <b>Location:</b> Nagpur, Maharashtra, India 🇮🇳
-              </p>
-            </td>
-            <td width="40%" style="background: #090d16; border: 1px solid #1e293b; border-top: 2px solid #00f3ff; border-radius: 8px; padding: 12px 14px;" valign="top">
-              <p align="left" style="margin: 0;">
-                <span style="color: #00f3ff; font-weight: bold;">📊 [METRICS_INDICATOR]</span><br/>
-                🏆 <b>CGPA / SGPA:</b> <span style="color: #00ff9d; font-size: 16px; font-weight: bold;">8.74 / 10.0</span><br/>
-                <code>[████████░░] 87.4%</code><br/>
-                <span style="color: #64748b; font-size: 11px;">Status: High Distinction</span>
-              </p>
-            </td>
-          </tr>
-        </table>
+class RajivRamteke:
+    def __init__(self):
+        self.name       = "Rajiv G. Ramteke"
+        self.location   = "Nagpur, Maharashtra, India 🇮🇳"
+        self.status     = "3rd Year Undergrad @ SCET Nagpur"
+        self.objective  = "Motivated Computer Engineering student with hands-on experience in " \
+                          "Python Full-Stack & AI. Seeking opportunities at ImmverseAI."
 
-        <!-- TECHNICAL SKILLS ARMORY GRID -->
-        <table width="100%" style="border-collapse: collapse; background: #090d16; border: 1px solid #1e293b; border-top: 2px solid #f43f5e; border-radius: 8px; margin-bottom: 14px;">
-          <tr>
-            <td style="padding: 14px 18px;">
-              <p align="left" style="margin: 0 0 10px 0;">
-                <span style="color: #f43f5e; font-weight: bold; font-size: 14px;">🛠️ [TECHNICAL_ARMORY]</span>
-                <span style="color: #64748b; font-size: 12px;"> // CORE MATRIX & TECH STACK</span>
-              </p>
+    def academic_telemetry(self):
+        return {
+            "degree"    : "B.Tech in Computer Engineering (2023 – 2027)",
+            "institute" : "Suryodaya College of Engineering & Technology, Nagpur",
+            "academic"  : "SGPA: 8.74 / 10.0 (High Distinction)"
+        }
 
-              <table width="100%" style="border-collapse: collapse; line-height: 1.9;">
-                <tr>
-                  <td width="28%" style="color: #38bdf8; font-weight: bold;">💻 Languages:</td>
-                  <td>
-                    <code style="background:#0f172a; color:#00f3ff; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">Python</code>
-                    <code style="background:#0f172a; color:#00f3ff; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">Java</code>
-                    <code style="background:#0f172a; color:#00f3ff; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">C++</code>
-                    <code style="background:#0f172a; color:#00f3ff; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">C</code>
-                    <code style="background:#0f172a; color:#00f3ff; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">JavaScript</code>
-                  </td>
-                </tr>
-                <tr>
-                  <td style="color: #00ff9d; font-weight: bold;">🧠 AI / ML & Vision:</td>
-                  <td>
-                    <code style="background:#062016; color:#00ff9d; border:1px solid #059669; padding:2px 7px; border-radius:4px;">Machine Learning</code>
-                    <code style="background:#062016; color:#00ff9d; border:1px solid #059669; padding:2px 7px; border-radius:4px;">Deep Learning</code>
-                    <code style="background:#062016; color:#00ff9d; border:1px solid #059669; padding:2px 7px; border-radius:4px;">Computer Vision</code>
-                    <code style="background:#062016; color:#00ff9d; border:1px solid #059669; padding:2px 7px; border-radius:4px;">NLP</code>
-                    <code style="background:#062016; color:#00ff9d; border:1px solid #059669; padding:2px 7px; border-radius:4px;">LLMs</code>
-                    <code style="background:#062016; color:#00ff9d; border:1px solid #059669; padding:2px 7px; border-radius:4px;">YOLO</code>
-                  </td>
-                </tr>
-                <tr>
-                  <td style="color: #c084fc; font-weight: bold;">⚡ Frameworks & Libs:</td>
-                  <td>
-                    <code style="background:#1e1b4b; color:#c084fc; border:1px solid #7c3aed; padding:2px 7px; border-radius:4px;">OpenCV</code>
-                    <code style="background:#1e1b4b; color:#c084fc; border:1px solid #7c3aed; padding:2px 7px; border-radius:4px;">Flask</code>
-                    <code style="background:#1e1b4b; color:#c084fc; border:1px solid #7c3aed; padding:2px 7px; border-radius:4px;">React.js</code>
-                    <code style="background:#1e1b4b; color:#c084fc; border:1px solid #7c3aed; padding:2px 7px; border-radius:4px;">Pandas</code>
-                    <code style="background:#1e1b4b; color:#c084fc; border:1px solid #7c3aed; padding:2px 7px; border-radius:4px;">NumPy</code>
-                    <code style="background:#1e1b4b; color:#c084fc; border:1px solid #7c3aed; padding:2px 7px; border-radius:4px;">Scikit-Learn</code>
-                  </td>
-                </tr>
-                <tr>
-                  <td style="color: #fbbf24; font-weight: bold;">🌐 Web & APIs:</td>
-                  <td>
-                    <code style="background:#241a06; color:#fbbf24; border:1px solid #d97706; padding:2px 7px; border-radius:4px;">HTML5</code>
-                    <code style="background:#241a06; color:#fbbf24; border:1px solid #d97706; padding:2px 7px; border-radius:4px;">CSS3</code>
-                    <code style="background:#241a06; color:#fbbf24; border:1px solid #d97706; padding:2px 7px; border-radius:4px;">REST APIs</code>
-                    <code style="background:#241a06; color:#fbbf24; border:1px solid #d97706; padding:2px 7px; border-radius:4px;">JSON</code>
-                  </td>
-                </tr>
-                <tr>
-                  <td style="color: #38bdf8; font-weight: bold;">🔧 Tools & Deploy:</td>
-                  <td>
-                    <code style="background:#0c4a6e; color:#7dd3fc; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">Git</code>
-                    <code style="background:#0c4a6e; color:#7dd3fc; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">GitHub</code>
-                    <code style="background:#0c4a6e; color:#7dd3fc; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">VS Code</code>
-                    <code style="background:#0c4a6e; color:#7dd3fc; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">Postman</code>
-                    <code style="background:#0c4a6e; color:#7dd3fc; border:1px solid #0284c7; padding:2px 7px; border-radius:4px;">Vercel</code>
-                  </td>
-                </tr>
-                <tr>
-                  <td style="color: #f472b6; font-weight: bold;">🧬 Core & Soft Skills:</td>
-                  <td>
-                    <code style="background:#4c0519; color:#f472b6; border:1px solid #be123c; padding:2px 7px; border-radius:4px;">DSA</code>
-                    <code style="background:#4c0519; color:#f472b6; border:1px solid #be123c; padding:2px 7px; border-radius:4px;">OOP</code>
-                    <code style="background:#4c0519; color:#f472b6; border:1px solid #be123c; padding:2px 7px; border-radius:4px;">DBMS</code>
-                    <code style="background:#4c0519; color:#f472b6; border:1px solid #be123c; padding:2px 7px; border-radius:4px;">Problem Solving</code>
-                    <code style="background:#4c0519; color:#f472b6; border:1px solid #be123c; padding:2px 7px; border-radius:4px;">Teamwork</code>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-        </table>
+    def technical_armory(self):
+        return {
+            "languages"  : ["Python", "Java", "C++", "C", "JavaScript"],
+            "ai_ml_cv"   : ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "LLMs", "YOLO"],
+            "frameworks" : ["OpenCV", "Flask", "React.js", "Pandas", "NumPy", "Scikit-Learn"],
+            "web_apis"   : ["HTML5", "CSS3", "JavaScript (ES6+)", "REST APIs", "JSON"],
+            "tools_dev"  : ["Git", "GitHub", "VS Code", "Postman", "Vercel"],
+            "core_skills": ["Data Structures & Algorithms", "OOP", "DBMS", "Problem Solving"]
+        }
 
-        <!-- CONTACT TELEMETRY BANNER -->
-        <table width="100%" style="border-collapse: collapse; background: #090d16; border: 1px solid #1e293b; border-top: 2px solid #a855f7; border-radius: 8px;">
-          <tr>
-            <td style="padding: 12px 18px;">
-              <p align="left" style="margin: 0;">
-                <span style="color: #a855f7; font-weight: bold; font-size: 13.5px;">📞 [DISPATCH_COMMUNICATIONS]</span> &nbsp;&nbsp;&nbsp;&nbsp;
-                📧 <a href="mailto:ramtekerajiv22@gmail.com" style="color: #00f3ff; text-decoration: none; font-weight: bold;">ramtekerajiv22@gmail.com</a> &nbsp;|&nbsp;
-                📱 <span style="color: #38bdf8;">+91-9881934206</span> &nbsp;|&nbsp;
-                🔗 <a href="https://www.linkedin.com/in/rajiv-ramteke-64450b3b8/" target="_blank" style="color: #00f3ff; text-decoration: none; font-weight: bold;">LinkedIn</a> &nbsp;|&nbsp;
-                🐙 <a href="https://github.com/rajiv-ramteke" target="_blank" style="color: #00f3ff; text-decoration: none; font-weight: bold;">GitHub</a>
-              </p>
-            </td>
-          </tr>
-        </table>
+    def dispatch_communications(self):
+        return {
+            "email"    : "ramtekerajiv22@gmail.com",
+            "phone"    : "+91-9881934206",
+            "linkedin" : "https://www.linkedin.com/in/rajiv-ramteke-64450b3b8/",
+            "github"   : "https://github.com/rajiv-ramteke"
+        }
 
-      </div>
-    </td>
-  </tr>
-</table>
+if __name__ == "__main__":
+    operator = RajivRamteke()
+    print("System Status: 100% Operational ✅")
+```
 
 <br/>
 
