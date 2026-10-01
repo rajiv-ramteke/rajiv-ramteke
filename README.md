@@ -167,9 +167,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/rajiv-ramteke">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajiv-ramteke&theme=dracula&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
-  </a>
+  <img width="100%" src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-trophies.svg" alt="Rajiv G. Ramteke Verified GitHub Trophies" />
 </p>
 
 <br/>
