@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-photo.jpg" width="300" alt="Rajiv G. Ramteke" />
+      <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-card.svg" width="370" alt="Rajiv G. Ramteke ID Card" />
     </td>
     <td valign="top" width="490">
 
