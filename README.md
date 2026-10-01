@@ -71,17 +71,21 @@ github       : "github.com/rajiv-ramteke"
 
 <br/>
 
-<!-- ================= 5. TERMINAL DIRECTIVE (ABOUT ME) ================= -->
+<!-- ================= 5. TERMINAL DIRECTIVE (ABOUT OPERATOR) ================= -->
 <table align="center" width="100%">
   <tr>
-    <td style="background-color: #020617; border: 1.5px solid #00f3ff; border-radius: 10px; padding: 18px; box-shadow: 0 0 15px rgba(0, 243, 255, 0.15);">
-      <p align="left" style="font-family: 'Courier New', Courier, monospace; color: #00f3ff; margin: 0; line-height: 1.7;">
-        <span style="color: #00ff9d;"><b>root@rajiv-ramteke:~$</b></span> <code>cat /sys/directive.log</code><br/><br/>
-        <span style="color: #e2e8f0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14.5px;">
-        👋 <b>Greetings, World!</b> I am an engineering student and technologist driven by solving hard problems at scale.<br/>
-        ⚡ Specialize in developing robust backends (<b>Python, Flask, FastAPI</b>), solid algorithms (<b>Java, C, C++</b>), and computer vision workflows with <b>OpenCV</b>.<br/>
-        🌱 Constantly exploring distributed architecture, AI agents, and intuitive user experiences.<br/>
-        💬 Feel free to reach out for hackathons, engineering roles, or tech discussions!
+    <td style="background-color: #020617; border: 1.5px solid #00f3ff; border-radius: 12px; padding: 22px; box-shadow: 0 0 25px rgba(0, 243, 255, 0.2), inset 0 0 20px rgba(2, 6, 23, 0.9);">
+      <p align="left" style="font-family: 'Courier New', Courier, monospace; color: #00f3ff; margin: 0; line-height: 1.8;">
+        <span style="color: #00ff9d;"><b>root@rajiv-ramteke:~$</b></span> <code>./initialize_operator_profile.sh --verbose</code><br/>
+        <span style="color: #64748b;">[SYS_INIT] Loading telemetry for operator: Rajiv G. Ramteke... [OK]</span><br/>
+        <span style="color: #64748b;">[SYS_INIT] Mounting modules: Full-Stack Dev, AI/ML, Computer Vision... [OK]</span><br/><br/>
+        <span style="color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.8;">
+        👋 <b>Hello there!</b> I'm <b>Rajiv G. Ramteke</b>, a 3rd-year <b>B.Tech Computer Engineering</b> student from Nagpur, Maharashtra, passionate about turning real-world problems into elegant, scalable software systems.<br/><br/>
+        ⚡ <b>Backend &amp; Full-Stack:</b> Crafting high-performance APIs and scalable architectures using <b>Python (FastAPI, Flask)</b>, <b>JavaScript</b>, and deep algorithmic foundations in <b>Java, C++, and C</b>.<br/>
+        🧠 <b>AI &amp; Computer Vision:</b> Engineering image-processing pipelines and machine-learning models utilizing <b>OpenCV, NumPy, Pandas, and Matplotlib</b>.<br/>
+        🗄️ <b>Data &amp; Cloud Infrastructure:</b> Designing robust data schemas with <b>MySQL &amp; MongoDB</b> and orchestrating modern deployments across <b>AWS &amp; Netlify</b>.<br/>
+        🎯 <b>Current Focus:</b> Actively seeking <b>Software Development (SDE) &amp; AI Engineering Internships / Opportunities</b>, and always thrilled to team up for high-impact projects and hackathons.<br/><br/>
+        💬 <i>"First make it work, then make it right, then make it fast."</i> — Let's connect and build something extraordinary!
         </span>
       </p>
     </td>
