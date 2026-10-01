@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td valign="top" align="center">
-      <img src="./rajiv-card.svg" width="370" alt="Rajiv G. Ramteke ID Card" />
+      <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-card.svg" width="370" alt="Rajiv G. Ramteke ID Card" />
     </td>
     <td valign="top" width="490">
 
@@ -256,7 +256,7 @@ github       : "github.com/rajiv-ramteke"
 
 <p align="center">
   <a href="https://htmlpreview.github.io/?https://github.com/rajiv-ramteke/rajiv-ramteke/blob/main/airplane-game/index.html" target="_blank">
-    <img src="./airplane-game.svg" width="100%" alt="Sky Vanguard Combat Simulator HUD" />
+    <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/airplane-game.svg" width="100%" alt="Sky Vanguard Combat Simulator HUD" />
   </a>
 </p>
 
