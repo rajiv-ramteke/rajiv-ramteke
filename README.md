@@ -1,39 +1,77 @@
-<div align="center">
+﻿<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            1. CINEMATIC HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,20:1a0033,60:2d0066,80:4b0082,100:6a0dad&height=300&section=header&text=Rajiv%20Ramteke&fontSize=70&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=B.Tech%20CSE%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=62&descSize=17&descFontColor=bf80ff&animation=fadeIn&stroke=9b30ff&strokeWidth=1" />
+<!-- ================= 1. CINEMATIC HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Rajiv%20Ramteke&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=B.Tech%20CSE%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            2. BADGES                                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ================= 2. LIVE SYSTEM TELEMETRY PILLS ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajiv-ramteke&style=for-the-badge&color=0284c7&label=SYS_PROFILE_VIEWS&labelColor=020617" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL--07%20ROOT-00ff9d?style=for-the-badge&labelColor=020617&logo=superuser&logoColor=00ff9d" alt="Clearance" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00f3ff?style=for-the-badge&labelColor=020617&logo=checkmarx&logoColor=00f3ff" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASED-NAGPUR%2C%20INDIA-38bdf8?style=for-the-badge&labelColor=020617" alt="Location" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=rajiv-ramteke&style=for-the-badge&color=4b0082&label=PROFILE+VIEWS&labelColor=0a0010" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-bf80ff?style=for-the-badge&labelColor=0a0010&logo=checkmarx&logoColor=bf80ff" />
-&nbsp;
-<img src="https://img.shields.io/badge/BASED-Nagpur%2C%20India-ffffff?style=for-the-badge&labelColor=0a0010" />
+<br/>
 
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            3. TYPING ANIMATION                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1000&color=BF80FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Building+full-stack+apps+that+scale+%F0%9F%9A%80;AI+Developer+%7C+Problem+Solver+%7C+Debugger+%F0%9F%A7%A0;Turning+ideas+into+products+with+code+%F0%9F%92%A1;3rd+Year+B.Tech+CSE+%40+Nagpur+%F0%9F%8E%93;Write+code+that+works.+Then+code+that+lasts.+%E2%9A%A1" alt="Typing SVG" />
+<!-- ================= 3. TYPING ANIMATION ================= -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=00F3FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+full-stack+apps+that+scale+%F0%9F%9A%80;AI+Developer+%7C+Problem+Solver+%7C+Debugger+%F0%9F%A7%A0;Turning+ideas+into+products+with+code+%F0%9F%92%A1;3rd+Year+B.Tech+CSE+%40+Nagpur+%F0%9F%8E%93;Write+code+that+works.+Then+code+that+lasts.+%E2%9A%A1" alt="Typing SVG" />
 
 <br/><br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            4. SOCIAL BADGES                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ================= 4. THE CIPHER STACK ================= -->
+<h3><code>The Cipher Stack</code></h3>
 
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./rajiv-card.svg" width="370" alt="Rajiv Ramteke ID Card" />
+    </td>
+    <td valign="top" width="490">
+
+```yaml
+# ══════════════════════════════════════
+#   SYSTEM :: IDENTITY MANIFEST v2.0
+# ══════════════════════════════════════
+
+operator     : "Rajiv Ramteke"
+handle       : "@rajiv-ramteke"
+clearance    : LEVEL-07 // ROOT
+node         : Nagpur, Maharashtra 🇮🇳
+
+# ── EDUCATION ──────────────────────
+degree       : "B.Tech Computer Engineering"
+year         : "3rd Year Undergrad"
+university   : "Nagpur, Maharashtra"
+
+# ── MISSION ────────────────────────
+objective    : "Full Stack Dev + AI Engineering"
+strengths    :
+  - "Problem Solving & Debugging"
+  - "System Design & Architecture"
+  - "AI/ML Integration"
+
+# ── STATUS ─────────────────────────
+availability : "Open to Work ✅"
+contact      : "ramtekerajiv22@gmail.com"
+github       : "github.com/rajiv-ramteke"
+```
+
+  </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ================= 5. SOCIAL BADGES ================= -->
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-ramteke-64450b3b8/)
@@ -46,40 +84,7 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            5. THE CIPHER STACK (ID CARD + INFO)           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 👾 The Identity Stack
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./rajiv-card.svg" width="370" alt="Rajiv Ramteke ID Card" />
-    </td>
-    <td valign="middle">
-
-```yaml
-Name       : Rajiv Ramteke
-Location   : Nagpur, Maharashtra 🇮🇳
-Education  : B.Tech Computer Engineering (3rd Year)
-Passion    : Full Stack Development & AI Solutions
-Strengths  : Problem Solving • Debugging • System Design
-Status     : Open to Work & Collaborations
-```
-
-  </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            6. TECH STACK                                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ================= 6. TECH STACK ================= -->
 ### 💻 Tech Stack
 
 **Languages**
@@ -110,47 +115,37 @@ Status     : Open to Work & Collaborations
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            7. GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ================= 7. GITHUB STATS ================= -->
 ### 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rajiv-ramteke&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0010&title_color=bf80ff&icon_color=9b30ff&text_color=ffffff&rank_icon=github" width="420" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rajiv-ramteke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00f3ff&icon_color=0284c7&text_color=ffffff&rank_icon=github" width="420" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajiv-ramteke&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0010&title_color=bf80ff&text_color=ffffff&langs_count=8" width="340" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajiv-ramteke&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00f3ff&text_color=ffffff&langs_count=8" width="340" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajiv-ramteke&theme=midnight-purple&hide_border=true&background=0a0010&ring=9b30ff&fire=bf80ff&currStreakLabel=bf80ff&sideLabels=bf80ff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="740" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajiv-ramteke&theme=tokyonight&hide_border=true&background=020617&ring=0284c7&fire=00ff9d&currStreakLabel=00f3ff&sideLabels=00f3ff&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" width="740" alt="GitHub Streak" />
 
 <br/><br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            8. TROPHIES                                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajiv-ramteke&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rajiv-ramteke&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies" />
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            9. FOOTER BANNER                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:4b0082,100:0a0010&height=120&section=footer&fontColor=bf80ff" />
+<!-- ================= 8. FOOTER BANNER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,25:0284c7,50:0a2540,75:050f24,100:020409&height=120&section=footer" />
 
 </div>
