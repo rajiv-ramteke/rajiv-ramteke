@@ -106,7 +106,7 @@
     <text y="194"><tspan fill="#cbd5e1" x="28">self.role</tspan> <tspan fill="#f43f5e" x="100">=</tspan> <tspan fill="#00f3ff" x="115">"Full-Stack &amp; AI Engineer"</tspan></text>
 
     <!-- Line 8 -->
-    <text y="213"><tspan fill="#cbd5e1" x="28">self.college</tspan> <tspan fill="#f43f5e" x="100">=</tspan> <tspan fill="#00f3ff" x="115">"B.Tech CSE @ SCET Nagpur"</tspan></text>
+    <text y="213"><tspan fill="#cbd5e1" x="28">self.college</tspan> <tspan fill="#f43f5e" x="100">=</tspan> <tspan fill="#00f3ff" x="115">"B.Tech CE (Computer Engineering) @ SCET Nagpur"</tspan></text>
 
     <!-- Line 9 -->
     <text y="232"><tspan fill="#cbd5e1" x="28">self.score</tspan> <tspan fill="#f43f5e" x="100">=</tspan> <tspan fill="#00ff9d" x="115">"SGPA: 8.74 / 10.0"</tspan></text>
