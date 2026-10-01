@@ -69,22 +69,61 @@ github       : "github.com/rajiv-ramteke"
 
 <br/>
 
-<!-- ================= 5. TERMINAL DIRECTIVE (ABOUT OPERATOR) ================= -->
+<!-- ================= 5. OPERATOR TERMINAL DIRECTIVE (FULL PROFILE) ================= -->
 <table align="center" width="100%">
   <tr>
-    </td>
-    <td style="background-color: #020617; border: 1.5px solid #00f3ff; border-radius: 12px; padding: 22px; box-shadow: 0 0 25px rgba(0, 243, 255, 0.2), inset 0 0 20px rgba(2, 6, 23, 0.9);">
-      <p align="left" style="font-family: 'Courier New', Courier, monospace; color: #00f3ff; margin: 0; line-height: 1.8;">
-      </td>
-        <span style="color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.8;">
-        👋 <b>Hello there!</b> I'm <b>Rajiv G. Ramteke</b>, a 3rd-year <b>B.Tech Computer Engineering</b> student from Nagpur, Maharashtra, passionate about turning real-world problems into elegant, scalable software systems.<br/><br/>
-        ⚡ <b>Backend &amp; Full-Stack:</b> Crafting high-performance APIs and scalable architectures using <b>Python (FastAPI, Flask)</b>, <b>JavaScript</b>, and deep algorithmic foundations in <b>Java, C++, and C</b>.<br/>
-        🧠 <b>AI &amp; Computer Vision:</b> Engineering image-processing pipelines and machine-learning models utilizing <b>OpenCV, NumPy, Pandas, and Matplotlib</b>.<br/>
-        🗄️ <b>Data &amp; Cloud Infrastructure:</b> Designing robust data schemas with <b>MySQL &amp; MongoDB</b> and orchestrating modern deployments across <b>AWS &amp; Netlify</b>.<br/>
-        🎯 <b>Current Focus:</b> Actively seeking <b>Software Development (SDE) &amp; AI Engineering Internships / Opportunities</b>, and always thrilled to team up for high-impact projects and hackathons.<br/><br/>
-        💬 <i>"First make it work, then make it right, then make it fast."</i> — Let's connect and build something extraordinary!
-        </span>
-      </p>
+    <td style="background-color: #020617; border: 1.5px solid #00f3ff; border-radius: 14px; padding: 22px; box-shadow: 0 0 30px rgba(0, 243, 255, 0.25), inset 0 0 25px rgba(2, 6, 23, 0.95);">
+      <!-- TERMINAL WINDOW HEADER -->
+      <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #1e293b; padding-bottom: 10px; margin-bottom: 16px;">
+        <p align="left" style="font-family: 'Fira Code', 'Courier New', monospace; color: #00f3ff; margin: 0; font-size: 14px; font-weight: bold;">
+          🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp; <span style="color: #00ff9d;">root@rajiv-ramteke:~$</span> <code>./exec_operator_manifest.sh --full-spec</code>
+        </p>
+      </div>
+
+      <!-- TERMINAL BODY CONTENT -->
+      <div style="font-family: 'Fira Code', 'Segoe UI', monospace; color: #f8fafc; font-size: 14px; line-height: 1.7;">
+        
+        <!-- OPERATOR BIO & OBJECTIVE -->
+        <p align="left" style="margin-top: 5px;">
+          <span style="color: #38bdf8; font-weight: bold;">⚡ [OPERATOR_SUMMARY]</span><br/>
+          Motivated <b>Computer Engineering Student</b> with hands-on experience in <b>Python Full-Stack Development</b> and <b>AI-based applications</b>. Passionate about building innovative software solutions and solving real-world problems through technology. Seeking opportunities at <b>ImmverseAI</b> and high-growth teams to apply technical skills, contribute to AI-driven projects, and grow as a software & AI professional.
+        </p>
+
+        <hr style="border: 0; border-top: 1px dashed #1e293b; margin: 15px 0;" />
+
+        <!-- EDUCATION MATRIX -->
+        <p align="left">
+          <span style="color: #00ff9d; font-weight: bold;">🎓 [ACADEMIC_TELEMETRY]</span><br/>
+          • <b>Degree:</b> B.Tech in Computer Engineering (2023 – 2027)<br/>
+          • <b>Institute:</b> Suryodaya College of Engineering & Technology, Nagpur<br/>
+          • <b>Academic Score:</b> <span style="color: #00f3ff; font-weight: bold;">SGPA: 8.74 / 10.0</span><br/>
+          • <b>Location:</b> Nagpur, Maharashtra, India 🇮🇳
+        </p>
+
+        <hr style="border: 0; border-top: 1px dashed #1e293b; margin: 15px 0;" />
+
+        <!-- TECHNICAL SKILLS MATRIX -->
+        <p align="left">
+          <span style="color: #f43f5e; font-weight: bold;">🛠️ [TECHNICAL_ARMORY]</span><br/>
+          🔹 <b>Programming Languages:</b> <code>Python</code>, <code>Java</code>, <code>C++</code>, <code>C</code>, <code>JavaScript</code><br/>
+          🔹 <b>AI / ML & Vision:</b> <code>Machine Learning</code>, <code>Deep Learning</code>, <code>NLP</code>, <code>Computer Vision</code>, <code>LLMs</code>, <code>YOLO</code><br/>
+          🔹 <b>Frameworks & Libraries:</b> <code>OpenCV</code>, <code>Flask</code>, <code>React.js</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Scikit-Learn</code><br/>
+          🔹 <b>Web & APIs:</b> <code>HTML5</code>, <code>CSS3</code>, <code>JavaScript (ES6+)</code>, <code>REST APIs</code>, <code>JSON</code><br/>
+          🔹 <b>Tools & Deployment:</b> <code>Git</code>, <code>GitHub</code>, <code>VS Code</code>, <code>Postman</code>, <code>Vercel</code><br/>
+          🔹 <b>Core Competencies:</b> <code>Data Structures & Algorithms</code>, <code>OOP</code>, <code>DBMS</code><br/>
+          🔹 <b>Soft Skills:</b> <code>Problem Solving</code>, <code>Teamwork</code>, <code>Communication</code>, <code>Analytical Thinking</code>
+        </p>
+
+        <hr style="border: 0; border-top: 1px dashed #1e293b; margin: 15px 0;" />
+
+        <!-- CONTACT DIRECTIVE -->
+        <p align="left" style="margin-bottom: 5px;">
+          <span style="color: #a855f7; font-weight: bold;">📞 [DISPATCH_COMMUNICATIONS]</span><br/>
+          📧 <b>Email:</b> <a href="mailto:ramtekerajiv22@gmail.com" style="color: #00f3ff; text-decoration: none;">ramtekerajiv22@gmail.com</a> &nbsp;|&nbsp; 📱 <b>Phone:</b> <span style="color: #38bdf8;">+91-9881934206</span><br/>
+          🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rajiv-ramteke-64450b3b8/" target="_blank" style="color: #00f3ff; text-decoration: none;">Rajiv Ramteke</a> &nbsp;|&nbsp; 🐙 <b>GitHub:</b> <a href="https://github.com/rajiv-ramteke" target="_blank" style="color: #00f3ff; text-decoration: none;">rajiv-ramteke</a>
+        </p>
+
+      </div>
     </td>
   </tr>
 </table>
