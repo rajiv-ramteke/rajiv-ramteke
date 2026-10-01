@@ -72,9 +72,10 @@ github       : "github.com/rajiv-ramteke"
 <!-- ================= 5. TERMINAL DIRECTIVE (ABOUT OPERATOR) ================= -->
 <table align="center" width="100%">
   <tr>
+    </td>
     <td style="background-color: #020617; border: 1.5px solid #00f3ff; border-radius: 12px; padding: 22px; box-shadow: 0 0 25px rgba(0, 243, 255, 0.2), inset 0 0 20px rgba(2, 6, 23, 0.9);">
       <p align="left" style="font-family: 'Courier New', Courier, monospace; color: #00f3ff; margin: 0; line-height: 1.8;">
-      
+      </td>
         <span style="color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.8;">
         👋 <b>Hello there!</b> I'm <b>Rajiv G. Ramteke</b>, a 3rd-year <b>B.Tech Computer Engineering</b> student from Nagpur, Maharashtra, passionate about turning real-world problems into elegant, scalable software systems.<br/><br/>
         ⚡ <b>Backend &amp; Full-Stack:</b> Crafting high-performance APIs and scalable architectures using <b>Python (FastAPI, Flask)</b>, <b>JavaScript</b>, and deep algorithmic foundations in <b>Java, C++, and C</b>.<br/>
