@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <!-- ================= 1. CINEMATIC HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Rajiv%20Ramteke&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=B.Tech%20CSE%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Rajiv%20G.%20Ramteke&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=B.Tech%20CSE%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
 
 <br/>
 
@@ -40,7 +40,7 @@
 #   SYSTEM :: IDENTITY MANIFEST v2.0
 # ══════════════════════════════════════
 
-operator     : "Rajiv Ramteke"
+operator     : "Rajiv G. Ramteke"
 handle       : "@rajiv-ramteke"
 clearance    : LEVEL-07 // ROOT
 node         : Nagpur, Maharashtra 🇮🇳
@@ -149,3 +149,4 @@ github       : "github.com/rajiv-ramteke"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,25:0284c7,50:0a2540,75:050f24,100:020409&height=120&section=footer" />
 
 </div>
+
