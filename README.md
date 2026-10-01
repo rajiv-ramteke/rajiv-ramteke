@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ================= 3. TYPING ANIMATION ================= -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=00F3FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=52&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;AI+%26+Computer+Vision+Developer+%F0%9F%A7%A0;Turning+complex+logic+into+elegant+code+%F0%9F%92%A1;3rd+Year+B.Tech+Computer+Engineering+%40+Nagpur+%F0%9F%8E%93;Write+code+that+works.+Then+code+that+lasts.+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=00F3FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=52&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;AI+%26+Computer+Vision+Developer+%F0%9F%A7%A0;Turning+complex+logic+into+elegant+code+%F0%9F%92%A1;B.Tech+Computer+Engineering+%40+Nagpur+%F0%9F%8E%93;Write+code+that+works.+Then+code+that+lasts.+%E2%9A%A1" alt="Typing SVG" />
 
 <br/><br/>
 
