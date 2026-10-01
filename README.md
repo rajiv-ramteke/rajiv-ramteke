@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- ================= 1. CINEMATIC HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Rajiv%20G.%20Ramteke&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Principal%20Full-Stack%20Architect%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&amp;height=280&amp;section=header&amp;text=Rajiv%20G.%20Ramteke&amp;fontSize=64&amp;fontColor=ffffff&amp;fontAlignY=38&amp;fontAlign=50&amp;desc=Principal%20Full-Stack%20Architect%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Creative%20Technologist&amp;descAlignY=58&amp;descSize=16&amp;descFontColor=00f3ff&amp;stroke=00f3ff&amp;strokeWidth=1" />
 
 <br/>
 
 <!-- ================= 2. LIVE SYSTEM TELEMETRY PILLS ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajiv-ramteke&style=for-the-badge&color=0284c7&label=SYS_PROFILE_VIEWS&labelColor=020617" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rajiv-ramteke&amp;style=for-the-badge&amp;color=0284c7&amp;label=SYS_PROFILE_VIEWS&amp;labelColor=020617" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL--07%20ROOT-00ff9d?style=for-the-badge&labelColor=020617&logo=superuser&logoColor=00ff9d" alt="Clearance" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL--07%20ROOT-00ff9d?style=for-the-badge&amp;labelColor=020617&amp;logo=superuser&amp;logoColor=00ff9d" alt="Clearance" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-100%25%20OPERATIONAL-00f3ff?style=for-the-badge&labelColor=020617&logo=checkmarx&logoColor=00f3ff" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-100%25%20OPERATIONAL-00f3ff?style=for-the-badge&amp;labelColor=020617&amp;logo=checkmarx&amp;logoColor=00f3ff" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ARCHITECTURE-DISTRIBUTED%20%26%20AI-38bdf8?style=for-the-badge&labelColor=020617" alt="Architecture" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-DISTRIBUTED%20%26%20AI-38bdf8?style=for-the-badge&amp;labelColor=020617" alt="Architecture" />
 </p>
 
 <br/>
