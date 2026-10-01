@@ -1,16 +1,33 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            1. CINEMATIC HEADER BANNER                      -->
+<!--            1. LIVE TERMINAL — NEOFETCH                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3><code>The Cipher Stack</code></h3>
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./rajiv-card.svg" width="370" alt="Rajiv Ramteke ID Card" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" alt="system info" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            2. CINEMATIC HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,20:1a0033,60:2d0066,80:4b0082,100:6a0dad&height=300&section=header&text=Rajiv%20Ramteke&fontSize=70&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=B.Tech%20CSE%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=62&descSize=17&descFontColor=bf80ff&animation=fadeIn&stroke=9b30ff&strokeWidth=1" />
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            2. BADGES                                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img src="https://komarev.com/ghpvc/?username=rajiv-ramteke&style=for-the-badge&color=4b0082&label=PROFILE+VIEWS&labelColor=0a0010" />
 &nbsp;
@@ -47,37 +64,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            5. THE CIPHER STACK (ID CARD + INFO)           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 👾 The Identity Stack
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./rajiv-card.svg" width="370" alt="Rajiv Ramteke ID Card" />
-    </td>
-    <td valign="middle">
-
-```yaml
-Name       : Rajiv Ramteke
-Location   : Nagpur, Maharashtra 🇮🇳
-Education  : B.Tech Computer Engineering (3rd Year)
-Passion    : Full Stack Development & AI Solutions
-Strengths  : Problem Solving • Debugging • System Design
-Status     : Open to Work & Collaborations
-```
-
-  </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            6. TECH STACK                                   -->
+<!--            5. TECH STACK                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 💻 Tech Stack
@@ -111,7 +98,7 @@ Status     : Open to Work & Collaborations
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            7. GITHUB STATS                                 -->
+<!--            6. LIVE TERMINAL — CONTRIBUTIONS                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 📊 GitHub Stats
@@ -135,10 +122,6 @@ Status     : Open to Work & Collaborations
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            8. TROPHIES                                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=rajiv-ramteke&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies" />
@@ -148,7 +131,7 @@ Status     : Open to Work & Collaborations
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            9. FOOTER BANNER                                -->
+<!--            7. FOOTER BANNER                                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:4b0082,100:0a0010&height=120&section=footer&fontColor=bf80ff" />
