@@ -178,6 +178,9 @@
         </div>
         <div style="font-size: 11px; margin-top:2px;">SPECIAL MISSILES: <span id="missile-count" style="color:#00ff9d">3</span></div>
       </div>
+      <div class="hud-center" style="pointer-events: auto; display: flex; align-items: flex-start;">
+        <a href="https://github.com/rajiv-ramteke" style="color: #00f3ff; text-decoration: none; font-size: 11px; letter-spacing: 1px; border: 1px solid rgba(0,243,255,0.4); padding: 4px 10px; border-radius: 4px; background: rgba(2,6,23,0.7); backdrop-filter: blur(4px); transition: all 0.2s;" onmouseover="this.style.background='rgba(0,243,255,0.2)'" onmouseout="this.style.background='rgba(2,6,23,0.7)'">⮌ PROFILE</a>
+      </div>
       <div class="hud-right" style="text-align: right;">
         <div>SCORE: <span id="score-display">0</span></div>
         <div>HIGH SCORE: <span id="highscore-display">0</span></div>
@@ -196,7 +199,10 @@
         <div>🚀 <span>X KEY</span> or <span>RIGHT CLICK</span> — Launch Homing Missiles</div>
         <div>📱 <span>TOUCH & DRAG</span> supported on Mobile / Tablets</div>
       </div>
-      <button id="start-btn" class="btn">Launch Sortie ✈️</button>
+      <div style="display: flex; gap: 14px; align-items: center; justify-content: center;">
+        <button id="start-btn" class="btn">Launch Sortie ✈️</button>
+        <a href="https://github.com/rajiv-ramteke" class="btn btn-secondary" style="margin-top:0;">← Back to Profile</a>
+      </div>
     </div>
 
     <!-- Game Over Screen -->
@@ -205,8 +211,10 @@
       <div class="subtitle" style="color:#f87171;">JET CRITICALLY DAMAGED</div>
       <div class="stat-row">Final Score: <span id="final-score">0</span></div>
       <div class="stat-row">Enemies Neutralized: <span id="final-kills">0</span></div>
-      <button id="restart-btn" class="btn" style="margin-top:16px;">Fly Again 🚀</button>
-      <a href="../README.md" class="btn btn-secondary">Back to Profile</a>
+      <div style="display: flex; gap: 14px; align-items: center; justify-content: center; margin-top: 18px;">
+        <button id="restart-btn" class="btn">Fly Again 🚀</button>
+        <a href="https://github.com/rajiv-ramteke" class="btn btn-secondary" style="margin-top:0;">← Back to GitHub Profile</a>
+      </div>
     </div>
 
     <canvas id="gameCanvas" width="900" height="600"></canvas>
