@@ -69,51 +69,10 @@ github       : "github.com/rajiv-ramteke"
 
 <br/>
 
-<!-- ================= 5. OPERATOR DIRECTIVE (CODE MANIFEST) ================= -->
-### 💻 `Operator Directive :: Profile Manifest`
-
-```python
-# ════════════════════════════════════════════════════════════════
-# 👨‍💻 OPERATOR_MANIFEST.py :: RAJIV G. RAMTEKE
-# ════════════════════════════════════════════════════════════════
-
-class RajivRamteke:
-    def __init__(self):
-        self.name       = "Rajiv G. Ramteke"
-        self.location   = "Nagpur, Maharashtra, India 🇮🇳"
-        self.status     = "3rd Year Undergrad @ SCET Nagpur"
-        self.objective  = "Motivated Computer Engineering student with hands-on experience in " \
-                          "Python Full-Stack & AI. Seeking opportunities at ImmverseAI."
-
-    def academic_telemetry(self):
-        return {
-            "degree"    : "B.Tech in Computer Engineering (2023 – 2027)",
-            "institute" : "Suryodaya College of Engineering & Technology, Nagpur",
-            "academic"  : "SGPA: 8.74 / 10.0 (High Distinction)"
-        }
-
-    def technical_armory(self):
-        return {
-            "languages"  : ["Python", "Java", "C++", "C", "JavaScript"],
-            "ai_ml_cv"   : ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "LLMs", "YOLO"],
-            "frameworks" : ["OpenCV", "Flask", "React.js", "Pandas", "NumPy", "Scikit-Learn"],
-            "web_apis"   : ["HTML5", "CSS3", "JavaScript (ES6+)", "REST APIs", "JSON"],
-            "tools_dev"  : ["Git", "GitHub", "VS Code", "Postman", "Vercel"],
-            "core_skills": ["Data Structures & Algorithms", "OOP", "DBMS", "Problem Solving"]
-        }
-
-    def dispatch_communications(self):
-        return {
-            "email"    : "ramtekerajiv22@gmail.com",
-            "phone"    : "+91-9881934206",
-            "linkedin" : "https://www.linkedin.com/in/rajiv-ramteke-64450b3b8/",
-            "github"   : "https://github.com/rajiv-ramteke"
-        }
-
-if __name__ == "__main__":
-    operator = RajivRamteke()
-    print("System Status: 100% Operational ✅")
-```
+<!-- ================= 5. OPERATOR ARCHITECTURE PIPELINE ================= -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-pipeline.svg" alt="Rajiv G. Ramteke Full-Stack & AI Architecture Pipeline" />
+</p>
 
 <br/>
 
