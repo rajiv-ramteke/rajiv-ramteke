@@ -163,9 +163,14 @@
 
 ---
 
+<!-- ================= 10. GITHUB TROPHIES ================= -->
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajiv-ramteke&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://github.com/rajiv-ramteke">
+    <img src="https://github-profile-trophy.vercel.app/?username=rajiv-ramteke&theme=dracula&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <br/>
 
