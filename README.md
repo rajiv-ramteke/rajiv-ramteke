@@ -145,18 +145,27 @@ github       : "github.com/rajiv-ramteke"
 
 <table align="center">
   <tr>
-    <td align="center" width="200" style="padding:20px">
-      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-55c85ef4fda9.png" width="90" alt="Pair Extraordinaire" /><br/><br/>
+    <td align="center" width="200" style="padding:16px">
+      <a href="https://github.com/rajiv-ramteke?tab=achievements">
+        <img src="./assets/achievements/pair-extraordinaire-default.png" width="95" alt="Pair Extraordinaire" />
+      </a>
+      <br/><br/>
       <b>Pair Extraordinaire</b><br/>
       <sub>Co-authored commits</sub>
     </td>
-    <td align="center" width="200" style="padding:20px">
-      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark" /><br/><br/>
+    <td align="center" width="200" style="padding:16px">
+      <a href="https://github.com/rajiv-ramteke?tab=achievements">
+        <img src="./assets/achievements/pull-shark-default.png" width="95" alt="Pull Shark" />
+      </a>
+      <br/><br/>
       <b>Pull Shark</b><br/>
       <sub>Merged pull requests</sub>
     </td>
-    <td align="center" width="200" style="padding:20px">
-      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aef8d09f.png" width="90" alt="Quickdraw" /><br/><br/>
+    <td align="center" width="200" style="padding:16px">
+      <a href="https://github.com/rajiv-ramteke?tab=achievements">
+        <img src="./assets/achievements/quickdraw-default.png" width="95" alt="Quickdraw" />
+      </a>
+      <br/><br/>
       <b>Quickdraw</b><br/>
       <sub>Closed within 5 minutes</sub>
     </td>
