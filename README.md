@@ -33,37 +33,9 @@
     <td valign="top" align="center">
       <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-card.svg" width="370" alt="Rajiv G. Ramteke ID Card" />
     </td>
-    <td valign="top" width="490">
-
-```yaml
-# ══════════════════════════════════════
-#   SYSTEM :: IDENTITY MANIFEST v2.0
-# ══════════════════════════════════════
-
-operator     : "Rajiv G. Ramteke"
-handle       : "@rajiv-ramteke"
-clearance    : LEVEL-07 // ROOT
-node         : Nagpur, Maharashtra 🇮🇳
-
-# ── EDUCATION ──────────────────────
-degree       : "B.Tech Computer Engineering"
-year         : "3rd Year Undergrad"
-university   : "Nagpur, Maharashtra"
-
-# ── MISSION & FOCUS ────────────────
-objective    : "Scalable Full Stack + AI Systems"
-strengths    :
-  - "System Architecture & API Design"
-  - "Computer Vision & ML Pipelines"
-  - "Deep Debugging & Code Optimization"
-
-# ── STATUS & DISPATCH ──────────────
-availability : "Open to Opportunities ✅"
-contact      : "ramtekerajiv22@gmail.com"
-github       : "github.com/rajiv-ramteke"
-```
-
-  </td>
+    <td valign="top" width="520">
+      <img src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-code-terminal.svg" width="520" alt="Rajiv G. Ramteke Live Coding Terminal" />
+    </td>
   </tr>
 </table>
 
