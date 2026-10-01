@@ -46,15 +46,16 @@
       <feGaussianBlur stdDeviation="6" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700;800&amp;family=Inter:wght@400;600;700;800;900&amp;display=swap');
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700;800&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap');
       .txt-sans-r { font-family: "Inter", system-ui, -apple-system, sans-serif; }
       .txt-mono-r { font-family: "JetBrains Mono", monospace; }
       @keyframes radar-spin-r { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
       .radar-ring-r { transform-origin: 125px 115px; animation: radar-spin-r 12s linear infinite; }
       @keyframes pulse-diode-r { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
       .status-diode-r { animation: pulse-diode-r 2s ease-in-out infinite; }
-    </style>
+    ]]></style>
     <clipPath id="avatar-circle-r"><circle cx="125" cy="115" r="44"/></clipPath>
   </defs>
 

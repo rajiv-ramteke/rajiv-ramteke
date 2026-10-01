@@ -40,7 +40,7 @@
       </feMerge>
     </filter>
 
-    <style>
+    <style><![CDATA[
       /* CSS Keyframe Animations */
       @keyframes jetFloat {
         0%, 100% { transform: translateY(0px) rotate(0deg); }
@@ -112,7 +112,7 @@
       .status-blink {
         animation: textBlink 1s infinite;
       }
-    </style>
+    ]]></style>
   </defs>
 
   <!-- Cockpit Border & Glass Shell -->
