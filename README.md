@@ -52,6 +52,13 @@
 
 ### 👾 About Me
 
+<table>
+  <tr>
+    <td valign="middle" align="center" width="260">
+      <img src="./rajiv.jpeg" width="230" style="border-radius: 50%; border: 3px solid #9b30ff;" alt="Rajiv Ramteke" />
+    </td>
+    <td valign="middle">
+
 ```yaml
 Name       : Rajiv Ramteke
 Location   : Nagpur, Maharashtra 🇮🇳
@@ -60,6 +67,10 @@ Passion    : Full Stack Development & AI Solutions
 Strengths  : Problem Solving • Debugging • System Design
 Status     : Open to Work & Collaborations
 ```
+
+  </td>
+  </tr>
+</table>
 
 <br/>
 
