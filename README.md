@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= 1. CINEMATIC HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Rajiv%20G.%20Ramteke&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=B.Tech%20CSE%20Undergrad%20%7C%20Full%20Stack%20Architect%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Rajiv%20G.%20Ramteke&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Principal%20Full-Stack%20Architect%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Creative%20Technologist&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
 
 <br/>
 
@@ -11,11 +11,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL--07%20ROOT-00ff9d?style=for-the-badge&labelColor=020617&logo=superuser&logoColor=00ff9d" alt="Clearance" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00f3ff?style=for-the-badge&labelColor=020617&logo=checkmarx&logoColor=00f3ff" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-100%25%20OPERATIONAL-00f3ff?style=for-the-badge&labelColor=020617&logo=checkmarx&logoColor=00f3ff" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/BASED-NAGPUR%2C%20INDIA-38bdf8?style=for-the-badge&labelColor=020617" alt="Location" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STACK-FULL--STACK%20%2B%20AI-00ff9d?style=for-the-badge&labelColor=020617&logo=probot&logoColor=00ff9d" alt="Stack" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-DISTRIBUTED%20%26%20AI-38bdf8?style=for-the-badge&labelColor=020617" alt="Architecture" />
 </p>
 
 <br/>
