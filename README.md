@@ -47,15 +47,15 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            5. ABOUT ME                                     -->
+<!--            5. THE CIPHER STACK (ID CARD + INFO)           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### 👾 About Me
+### 👾 The Identity Stack
 
 <table>
   <tr>
-    <td valign="middle" align="center" width="260">
-      <img src="./rajiv.jpeg" width="230" style="border-radius: 50%; border: 3px solid #9b30ff;" alt="Rajiv Ramteke" />
+    <td valign="top">
+      <img src="./rajiv-card.svg" width="370" alt="Rajiv Ramteke ID Card" />
     </td>
     <td valign="middle">
 
