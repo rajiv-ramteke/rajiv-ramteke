@@ -164,7 +164,7 @@
 ---
 
 <!-- ================= 10. GITHUB TROPHIES ================= -->
-### 🏆 GitHub Trophies
+### 🏆 Trophies
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/rajiv-ramteke/rajiv-ramteke/main/rajiv-trophies.svg" alt="Rajiv G. Ramteke Verified GitHub Trophies" />
